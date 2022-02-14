@@ -1,0 +1,49 @@
+"""Firefly MDP Sprint 7""",,,,,
+15 Tasks,,,,,
+,,,,,
+Task,Message,Time (HR),Task Points (TP),HR / TP,Resolution
+FA-7504,"Existing DLLs are not moved to ""legacy dll"" folder during the install",11,0,0,Fixed
+FA-7496,LegAllocQty and HedgeLegAllocQty are getting rounding in xml(RFF_Fetch and Trade_Query) and 8 message,0,0,0,Won't Fix
+FA-7471,Update selected bug filters in SalesDealingTicketConsistencyTest and remove spread fields from comparison,24.17,5,4.83,Completed
+FA-7466,"FIXHandlerConsistencyTest. 17.1 Batch1 case ""Sell Risk Reversal Put  W/ Delta"" is failing on Maximoff. Passed on Vision",42,0,0,Fixed
+FA-7461,Maintenance task to update TicketComparisonSalesTicketingVsSalesDealingVsAPIDealingVsTiesTest for Forward Hedge for Trade as Opposite,26.5,5,5.3,Unresolved
+FA-7457,Identify known bugs from Vision to determine how many can be added in a sprint,2.33,3,0.78,Completed
+FA-7432,Not able to Quote on some requests with forward hedge.,15.5,3,5.17,Cannot Reproduce
+FA-7403,Possible autobuild issue when switching between versions,1,0,0,Won't Fix
+FA-7402,Jenkins issue on running test after auto install,34.5,0,0,Fixed
+FA-7371,As a kACE user I want to include selected math dlls in the Maximoff install,18,3,6,Unresolved
+FA-7354,Perform analysis of nightly runs for MDP,89.83,0,0,Fixed
+FA-7280,As a kACE user I want to update automated tests for multiple hedges,85.5,5,17.1,Completed
+FA-6919,"Maintenance task to Update Method getImpliedVol to get correct tkt volatility in test SalesDealingTicketConsistencyTest, StreamingHedgesDealingTicketConsistencyTest",14.5,5,2.9,Completed
+FA-5126,Multi Strategy Cases not getting executed in some tests in SPARK/Jenkins,38.5,5,7.7,Unresolved
+FA-4318,Update calculate() method to dynamically wait until calculation is finished,33.5,8,4.19,Completed
+,,,,,
+TOTAL,,436.83,42,,
+AVERAGE,,29.12,2.8,10.4,
+MEDIAN,,24.17,3,2.9,
+MIN,,0,0,0,
+MAX,,89.83,8,17.1,
+RANGE,,89.83,8,17.1,
+0% QUARTILE,,0,0,0,
+25% QUARTILE,,12.75,0,0,
+50% QUARTILE,,24.17,3,2.9,
+75% QUARTILE,,36.5,5,5.234999999999999,
+100% QUARTILE,,89.83,8,17.1,
+,,,,,
+HOURS \ TASK,0SP (6),3SP (3),5SP (5),8SP (1),
+AVERAGE,29.72,11.94,37.83,33.5,
+MEDIAN,34.5,15.5,26.5,33.5,
+MIN,0,2.33,14.5,33.5,
+MAX,89.83,18,85.5,33.5,
+RANGE,89.83,15.67,71,0,
+25% QUARTILE,3.5,8.91,24.17,33.5,
+75% QUARTILE,40.12,16.75,38.5,33.5,
+,,,,,
+RATE \ TASK,3SP (3),5SP (5),8SP (1),,
+AVERAGE,3.98,7.57,4.19,,
+MEDIAN,5.17,5.3,4.19,,
+MIN,0.78,2.9,4.19,,
+MAX,6,17.1,4.19,,
+RANGE,5.22,14.2,0,,
+25% QUARTILE,2.97,4.83,4.19,,
+75% QUARTILE,5.58,7.7,4.19,,

@@ -1,0 +1,42 @@
+"""Nexus Sprint 19""",,,,,
+8 Tasks,,,,,
+,,,,,
+Task,Message,Time (HR),Task Points (TP),HR / TP,Resolution
+FA-7306,"As a developer, I want the PA tool to subscribe and process Kafka consumer group rebalancing call backs. ",16,2,8,Fixed
+FA-7305,"As a developer, I want to statically and/or dynamically link to librdkafka library",16,2,8,Fixed
+FA-7302,"As a developer, I want to setup CMake projects for the library and testing executable tool",12,1,12,Fixed
+FA-7289,Switch Deal Manager url for FENICS Direct to old.fenicsdirect.com,3,0,0,Completed
+FA-7246,"As product owner, I would like to stop saving mass quotes",34,3,11.33,Unresolved
+FA-7223,"As a dev, I would like to address the issue: User Enumeration Through Response Discrepancy",9,1,9,Unresolved
+FA-7214,"As a dev, I want to use latest npm / node js along side with the existing npm / nodejs for AB2B in monaco branch",15,2,7.5,Unresolved
+FA-6874,"As a user, I want Gateway to be performant Part 1/3: Framework for asynchronized persistence to db",23,5,4.6,Unresolved
+,,,,,
+TOTAL,,128,16,,
+AVERAGE,,16,2,8,
+MEDIAN,,16,2,8,
+MIN,,3,0,0,
+MAX,,34,5,12,
+RANGE,,31,5,12,
+0% QUARTILE,,3,0,0,
+25% QUARTILE,,11.25,1,6.775,
+50% QUARTILE,,15.5,2,8,
+75% QUARTILE,,17.75,2.25,9.5825,
+100% QUARTILE,,34,5,12,
+,,,,,
+HOURS \ TASK,0SP (1),1SP (2),2SP (3),3SP (1),5SP (1)
+AVERAGE,3,10.5,15.67,34,23
+MEDIAN,3,12,16,34,23
+MIN,3,9,15,34,23
+MAX,3,12,16,34,23
+RANGE,0,3,1,0,0
+25% QUARTILE,3,9.75,15.5,34,23
+75% QUARTILE,3,11.25,16,34,23
+,,,,,
+RATE \ TASK,1SP (2),2SP (3),3SP (1),5SP (1),
+AVERAGE,10.5,7.83,11.33,4.6,
+MEDIAN,12,8,11.33,4.6,
+MIN,9,7.5,11.33,4.6,
+MAX,12,8,11.33,4.6,
+RANGE,3,0.5,0,0,
+25% QUARTILE,9.75,7.75,11.33,4.6,
+75% QUARTILE,11.25,8,11.33,4.6,
